@@ -1,4 +1,3 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
+Personal Portfolio website created using React, Vite, JavaScript, HTML, CSS and Framer Motion.
